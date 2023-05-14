@@ -1,7 +1,5 @@
 ```
-Apache License [Castilla Modifications]
-Version 2.1, February 2022
-http://www.apache.org/licenses/
+Castilla License
 https://github.com/CastillaSBC/Castilla-License/blob/main/README.md
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
